@@ -1,0 +1,2 @@
+train_steps, loss, value, time, relative_error
+600, 0.037451, 23.690607, 36.610969, 0.586551
